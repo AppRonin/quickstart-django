@@ -4,7 +4,7 @@ A **pre-configured Django starter template** with PostgreSQL ready to use — so
 
 Built to help you go from **clone → run → build features** as fast as possible.
 
-## Quick Start
+## Getting Started
 
 ### 1️⃣ Clone the repo
 
